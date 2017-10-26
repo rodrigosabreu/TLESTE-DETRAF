@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DETRAF.VIEW", "DETRAF.VIEW\DETRAF.VIEW.csproj", "{764FD856-2431-45C5-9391-852C32484DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DETRAF.BLL", "DETRAF.BLL\DETRAF.BLL.csproj", "{D79206B4-41AC-4373-B425-B5E91B17BA15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DETRAF.LOGGER", "DETRAF.LOGGER\DETRAF.LOGGER.csproj", "{1E7ACE2F-20F2-489F-99BC-11079D5B81F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DETRAF.DAL", "DETRAF.DAL\DETRAF.DAL.csproj", "{5E95D172-43F6-4E12-A31F-F50F905474A7}"
+EndProject
+Global	
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764FD856-2431-45C5-9391-852C32484DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764FD856-2431-45C5-9391-852C32484DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764FD856-2431-45C5-9391-852C32484DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764FD856-2431-45C5-9391-852C32484DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79206B4-41AC-4373-B425-B5E91B17BA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79206B4-41AC-4373-B425-B5E91B17BA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79206B4-41AC-4373-B425-B5E91B17BA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79206B4-41AC-4373-B425-B5E91B17BA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7ACE2F-20F2-489F-99BC-11079D5B81F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7ACE2F-20F2-489F-99BC-11079D5B81F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7ACE2F-20F2-489F-99BC-11079D5B81F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7ACE2F-20F2-489F-99BC-11079D5B81F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E95D172-43F6-4E12-A31F-F50F905474A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E95D172-43F6-4E12-A31F-F50F905474A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E95D172-43F6-4E12-A31F-F50F905474A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E95D172-43F6-4E12-A31F-F50F905474A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
